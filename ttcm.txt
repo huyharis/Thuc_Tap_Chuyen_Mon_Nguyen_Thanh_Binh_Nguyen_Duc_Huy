@@ -1,0 +1,12 @@
+Quản lý của hàng điện thoại di động
+- Xuất hóa đơn, bảng biểu
+- Thống kê doanh thu từng kỳ
+- Quản lý sản phẩm, dịch vụ, khách hàng, thông tin trong cửa hàng
+
+* công nghệ sử dụng
+	-- winform, sql server
+* mục tiêu đạt được
+	==> nhập hàng, thanh toán,
+	==> ...
+
+==================//////////=====================
