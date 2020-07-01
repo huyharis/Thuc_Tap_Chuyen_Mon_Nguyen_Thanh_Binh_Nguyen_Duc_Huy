@@ -16,5 +16,11 @@ namespace GearPC_Store
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            UCProduct uCProduct = new UCProduct();
+            panelMain.Controls.Add(uCProduct);
+        }
     }
 }
